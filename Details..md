@@ -6,8 +6,6 @@ The System Works Off Of Handling StatusCodes via HttpWebRequest/Response i.e if 
 
 Features:
 - Customizable Website List
-- Customize The Banner I Dont Care
-- Do Whatever You Want Code Wise, I Will Upload That At Somepoint
 - 79 Lines, 2 Classes
 - User-Agent Spoofing
 - Lightweight
@@ -15,3 +13,6 @@ Features:
 
 
 There Are A Few False Positives, However In Testing We Found They Made Us Check Out A Username We Would Not Have Checked More Often, Mostly Causing Positive Results
+
+- Customize The Banner I Dont Care
+- Do Whatever You Want Code Wise, I Will Upload That At Somepoint
