@@ -14,7 +14,9 @@ Features:
 
 There Are A Few False Positives, However In Testing We Found They Made Us Check Out A Username We Would Not Have Checked More Often, Mostly Causing Positive Results
 
+Notices:
+- Calls, 3 Usings, Sytem; System.IO; System.Net
 - Customize The Banner I Dont Care
-- Do Whatever You Want Code Wise, I Will Upload That At Somepoint
+- Fully Open Source, Do Whatever You Feel, I The Creator Permit Reselling Of This Application, Whether Original Code Is Altered Or Not.
 
 <img src="https://user-images.githubusercontent.com/80434330/110720921-55c09b00-8207-11eb-8091-2528307b3d01.PNG">
