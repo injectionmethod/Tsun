@@ -5,7 +5,7 @@ Check Out Sherlock Here: https://github.com/sherlock-project/sherlock
 The System Works Off Of Handling StatusCodes via HttpWebRequest/Response i.e if not 200 OK then no ball
 
 Features:
-- Customizable Website List
+- Customizable Website List (.txt format)
 - User-Agent Spoofing
 - Drag'N'Drop Install
 
