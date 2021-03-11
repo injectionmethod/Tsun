@@ -12,7 +12,7 @@ Features:
 
 There Are A Few False Positives, However In Testing We Found They Made Us Check Out A Username We Would Not Have Checked More Often, Mostly Causing Positive Results
 
-Notices:
+Other Info:
 - Lightweight
 - 79 Lines, 2 Classes
 - Calls, 3 Usings, Sytem; System.IO; System.Net
