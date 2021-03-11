@@ -6,15 +6,15 @@ The System Works Off Of Handling StatusCodes via HttpWebRequest/Response i.e if 
 
 Features:
 - Customizable Website List
-- 79 Lines, 2 Classes
 - User-Agent Spoofing
-- Lightweight
 - Drag'N'Drop Install
 
 
 There Are A Few False Positives, However In Testing We Found They Made Us Check Out A Username We Would Not Have Checked More Often, Mostly Causing Positive Results
 
 Notices:
+- Lightweight
+- 79 Lines, 2 Classes
 - Calls, 3 Usings, Sytem; System.IO; System.Net
 - Customize The Banner I Dont Care
 - Fully Open Source, Do Whatever You Feel, I The Creator Permit Reselling Of This Application, Whether Original Code Is Altered Or Not.
