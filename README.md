@@ -10,7 +10,7 @@ Features:
 - Drag'N'Drop Install
 
 
-There Are A Few False Positives, However In Testing We Found They Made Us Check Out A Username We Would Not Have Checked More Often, Mostly Causing Positive Results
+Please Report False Positives By Creating An Issue.
 
 Other Info:
 - .NET Framework 4.7.2 & Up
