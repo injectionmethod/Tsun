@@ -1,6 +1,7 @@
 # Tsun
 Web Crawler For Known Usernames,Idea Based Off Of Sherlock But Made In C# .NET
-Check Out Sherlock Here: https://github.com/sherlock-project/sherlock
+Check Out Sherlock Here: 
+https://github.com/sherlock-project/sherlock
 
 The System Works Off Of Handling StatusCodes via HttpWebRequest/Response i.e if not 200 OK then no ball
 
