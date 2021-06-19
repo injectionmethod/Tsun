@@ -1,5 +1,5 @@
 # Tsun
-Web Crawler For Known Usernames,Idea Based Off Of Sherlock But Made In C# .NET
+Crawler For Usernames, Idea Based Off Of Sherlock But Made In C# .NET
 Check Out Sherlock Here: 
 https://github.com/sherlock-project/sherlock
 
