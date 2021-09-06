@@ -6,7 +6,7 @@ https://github.com/sherlock-project/sherlock
 The System Works Off Of Handling StatusCodes via HttpWebRequest/Response i.e if not 200 OK then no ball
 
 Features:
-- Customizable Website List (.txt format)
+- Customizable Website List (.lst format)
 - User-Agent Spoofing
 - Drag'N'Drop Install
 
