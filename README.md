@@ -7,7 +7,7 @@ https://github.com/sherlock-project/sherlock
 The FindUser Routine Works Off Of Handling StatusCodes via HttpWebRequest/Response And Determining If They Are Correct Responses, i.e if not 200 OK then no ball
 
 Usability:
-- Customizable Website List (.lst format)
+- Customizable Website & User-Agent List (.lst format)
 - Drag'N'Drop Install
 
 
