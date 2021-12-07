@@ -4,7 +4,7 @@ Crawler For Usernames, Idea Based Off Of Sherlock But Made In C# .NET
 Check Out Sherlock Here: 
 https://github.com/sherlock-project/sherlock
 
-The FindUser Routine Works Off Of Handling StatusCodes via HttpWebRequest/Response And Determining If They Are Correct Responses, i.e if not 200 OK then no ball
+Works Via Handling StatusCodes via HttpWebRequest/Response And Determining If They Are Correct Responses, i.e if not 200 OK then no ball
 
 Usability:
 - Customizable Website & User-Agent List (.lst format)
