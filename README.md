@@ -19,4 +19,4 @@ Side Info:
 
 Please Report False Positives By Creating An Issue.
 
-<img src="https://user-images.githubusercontent.com/80434330/110720921-55c09b00-8207-11eb-8091-2528307b3d01.PNG">
+<img src="https://cdn.discordapp.com/attachments/695402324868202587/917625378909061120/unknown.png">
