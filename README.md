@@ -1,4 +1,7 @@
 # Tsun
+
+**OUTDATED AS OF 08/2025**
+
 Crawler For Usernames, Idea Based Off Of Sherlock But Made In C# .NET
 
 Check Out Sherlock Here: 
